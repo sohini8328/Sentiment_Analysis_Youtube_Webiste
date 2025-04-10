@@ -62,7 +62,7 @@ Comedy and News had more polarizing sentiments.
 Sentiment is an independent signal not fully captured by views/likes, and should be monitored directly.
 How to Run
 Clone this repository:
-git clone https://github.com/rawaayousseif/Youtube-Sentiment-Analysis.git
+git clone 
 cd Youtube-Sentiment-Analysis
 
 ## Team
