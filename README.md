@@ -60,9 +60,12 @@ Predictions aligned well with VADER sentiment scores.
 Entertainment and Music categories had the highest engagement and positive sentiment.
 Comedy and News had more polarizing sentiments.
 Sentiment is an independent signal not fully captured by views/likes, and should be monitored directly.
+
+BLANK_README.md to get started Build With: This is the list of the libraries used by me to run this project were pandas, numpy, matplotlib.pyplot, json, nltk, json, LabelEncoder, WordNetLemmatizer, TfidfVectorizer, stopwords, word_tokenize
+re, string, spacy, train_test_split, classification_report, LogisticRegression,LGBMClassifier,nltk, SentimentIntensityAnalyzer,tqdm.
+Getting Started: This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple steps. Prequisites: This is an example of software and how to install them. VS Code
 How to Run
 Clone this repository: https://github.com/sohini8328/Sentiment_Analysis_Youtube_Webiste.git
-
 
 ## Team
 **Team Name:** Rate My Sentiments Engine
