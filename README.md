@@ -61,9 +61,8 @@ Entertainment and Music categories had the highest engagement and positive senti
 Comedy and News had more polarizing sentiments.
 Sentiment is an independent signal not fully captured by views/likes, and should be monitored directly.
 How to Run
-Clone this repository:
-git clone 
-cd Youtube-Sentiment-Analysis
+Clone this repository: https://github.com/sohini8328/Sentiment_Analysis_Youtube_Webiste.git
+
 
 ## Team
 **Team Name:** Rate My Sentiments Engine
