@@ -56,6 +56,8 @@ Getting Started: This is an example of how you may give instructions on setting 
 How to Run
 Clone this repository: https://github.com/sohini8328/Sentiment_Analysis_Youtube_Webiste.git
 
+Youtube link for project: https://www.youtube.com/watch?v=JRcIVh4hBaU&t=256s
+
 ## Team
 **Team Name:** Rate My Sentiments Engine
 
